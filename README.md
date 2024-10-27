@@ -19,6 +19,7 @@ ssh -i "devops.pem" ec2-user@ec2-54-89-221-211.compute-1.amazonaws.com
 ```
 
 <h3>Task</h3>
+
 - Create 2 micro instances in AWS
 - Setup application load balancer and assign instances to it
 
